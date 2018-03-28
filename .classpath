@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/|lib/|data/|images/|reports/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/AutoItX4Java/AutoItX4Java.jar"/>
+	<classpathentry kind="lib" path="lib/JACOB/jacob.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/groovy-all-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/jasperreports-4.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/jasperreports-chart-themes-4.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/jasperreports-core-renderer.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/jasperreports-extensions-3.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/jasperreports-fonts-4.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/jasperreports-htmlcomponent-4.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/jasperreports-json.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/jasperreports-jtidy-r938.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/jxl-2.6.10.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/spring.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/xalan.jar"/>
+	<classpathentry kind="lib" path="lib/OJDBC/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/JaperSoft/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium-2.15.0/selenium-java-2.15.0.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium-2.15.0/selenium-java-2.15.0-srcs.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium-2.15.0/selenium-server-standalone-2.15.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
